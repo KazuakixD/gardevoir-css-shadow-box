@@ -1,0 +1,38 @@
+body {
+    color: gray;
+}
+
+div {margin: 20px;
+    padding: 10px;
+    height: 10px;
+    width: 10px;
+    box-shadow:  
+                110px 420px black,
+                140px 390px black, 140px 420px rgb(131, 213, 106), 140px 450px black,
+                170px 180px black, 170px 210px black, 170px 240px black, 170px 390px black, 170px 420px rgb(131, 213, 106), 170px 450px rgb(131, 213, 106), 170px 480px black,
+                200px 120px black, 200px 150px black, 200px 180px rgb(131, 213, 106), 200px 210px rgb(131, 213, 106), 200px 240px rgb(131, 213, 106), 200px 270px black, 200px 300px black, 200px 390px black, 200px 420px rgb(131, 213, 106), 200px 450px rgb(115, 180, 115), 200px 480px black, 200px 600px black, 200px 630px black,
+                230px 90px black, 230px 120px rgb(131, 213, 106), 230px 150px rgb(131, 213, 106), 230px 180px rgb(131, 213, 106), 230px 210px rgb(115, 180, 115), 230px 240px rgb(115, 180, 115), 230px 270px rgb(115, 180, 115), 230px 300px rgb(131, 213, 106), 230px 330px black, 230px 390px black, 230px 420px rgb(115, 180, 115), 230px 450px black, 230px 570px black, 230px 600px rgb(189, 189, 205), 230px 660px black,
+                260px 60px black, 260px 90px rgb(115, 180, 115), 260px 120px rgb(131, 213, 106), 260px 150px  rgb(115, 180, 115), 260px 180px rgb(115, 180, 115), 260px 210px rgb(131, 213, 106), 260px 240px rgb(131, 213, 106), 260px 270px rgb(131, 213, 106), 260px 300px rgb(115, 180, 115), 260px 330px rgb(131, 213, 106), 260px 360px black, 260px 390px rgb(115, 180, 115), 260px 420px black, 260px 510px black, 260px 540px black, 260px 630px rgb(74, 148, 90), 260px 660px black,
+                290px 60px black, 290px 90px rgb(131, 213, 106), 290px 120px rgb(115, 180, 115), 290px 150px rgb(131, 213, 106), 290px 180px rgb(131, 213, 106), 290px 210px rgb(131, 213, 106), 290px 240px rgb(115, 180, 115), 290px 270px rgb(115, 180, 115), 290px 300px rgb(115, 180, 115), 290px 330px rgb(82, 82, 82), 290px 360px rgb(82, 82, 82), 290px 390px rgb(115, 180, 115), 290px 420px rgb(82, 82, 82), 290px 450px black, 290px 480px black, 290px 570px rgb(74, 148, 90), 290px 600px rgb(74, 148, 90), 290px 630px black,
+                320px 30px black, 320px 60px rgb(131, 213, 106), 320px 90px rgb(115, 180, 115), 320px 120px rgb(131, 213, 106), 320px 150px rgb(131, 213, 106), 320px 180px rgb(131, 213, 106), 320px 210px rgb(115, 180, 115), 320px 240px rgb(131, 213, 106), 320px 270px rgb(131, 213, 106), 320px 300px rgb(74, 148, 90), 320px 330px rgb(189, 189, 205), 320px 360px rgb(82, 82, 82), 320px 390px rgb(82, 82, 82), 320px 420px rgb(230, 82, 115), 320px 450px rgb(148, 65, 98), 320px 480px rgb(205, 213, 238), 320px 510px rgb(205, 213, 238), 320px 540px rgb(74, 148, 90), 320px 570px rgb(74, 148, 90), 320px 600px rgb(82, 82, 82), 320px 630px black,
+                350px 30px black, 350px 60px rgb(131, 213, 106), 350px 90px rgb(115, 180, 115), 350px 120px rgb(131, 213, 106), 350px 150px rgb(131, 213, 106), 350px 180px rgb(115, 180, 115), 350px 210px rgb(131, 213, 106), 350px 240px rgb(131, 213, 106), 350px 270px rgb(74, 148, 90), 350px 300px rgb(82, 82, 82), 350px 360px rgb(123, 123, 123), 350px 390px rgb(148, 65, 98), 350px 420px rgb(230, 82, 115), 350px 450px rgb(230, 82, 115), 350px 480px rgb(148, 65, 98), 350px 630px rgb(205, 213, 238), 350px 660px black,
+                380px 30px black, 380px 60px rgb(115, 180, 115), 380px 90px rgb(131, 213, 106), 380px 120px rgb(131, 213, 106), 380px 150px  rgb(115, 180, 115), 380px 180px rgb(131, 213, 106), 380px 210px rgb(131, 213, 106), 380px 240px rgb(74, 148, 90), 380px 270px rgb(148, 65, 98), 380px 300px rgb(230, 82, 115), 380px 360px rgb(189, 189, 205), 380px 390px rgb(205, 213, 238), 380px 420px rgb(115, 180, 115), 380px 450px rgb(115, 180, 115), 380px 480px rgb(205, 213, 238), 380px 510px rgb(205, 213, 238), 380px 660px rgb(205, 213, 238), 380px 690px black,
+                410px 30px black, 410px 60px rgb(115, 180, 115), 410px 90px rgb(131, 213, 106), 410px 120px rgb(131, 213, 106), 410px 150px  rgb(115, 180, 115), 410px 180px rgb(131, 213, 106), 410px 210px rgb(131, 213, 106), 410px 240px rgb(74, 148, 90), 410px 330px rgb(189, 189, 205), 410px 360px rgb(82, 82, 82), 410px 390px rgb(74, 148, 90), 410px 420px rgb(74, 148, 90), 410px 450px rgb(115, 180, 115), 410px 540px rgb(205, 213, 238), 410px 570px rgb(205, 213, 238), 410px 690px black,
+                440px 30px black, 440px 60px rgb(74, 148, 90), 440px 90px rgb(131, 213, 106), 440px 120px rgb(131, 213, 106), 440px 150px rgb(131, 213, 106), 440px 180px rgb(131, 213, 106), 440px 210px rgb(74, 148, 90), 440px 270px rgb(189, 189, 205), 440px 300px rgb(189, 189, 205), 440px 330px rgb(74, 148, 90), 440px 360px rgb(131, 213, 106), 440px 390px rgb(82, 82, 82), 440px 420px rgb(131, 213, 106), 440px 450px rgb(74, 148, 90), 440px 480px rgb(74, 148, 90), 440px 600px rgb(82, 82, 82), 440px 720px black,
+                470px 60px black, 470px 90px rgb(131, 213, 106), 470px 120px rgb(131, 213, 106), 470px 150px rgb(131, 213, 106), 470px 180px rgb(131, 213, 106), 470px 210px rgb(74, 148, 90), 470px 270px rgb(74, 148, 90), 470px 330px rgb(74, 148, 90), 470px 360px rgb(131, 213, 106), 470px 390px black, 470px 420px black, 470px 450px rgb(131, 213, 106), 470px 480px rgb(115, 180, 115), 470px 510px rgb(82, 82, 82), 470px 630px rgb(82, 82, 82), 470px 720px black,
+                500px 60px black, 500px 90px rgb(115, 180, 115), 500px 120px rgb(131, 213, 106), 500px 150px rgb(131, 213, 106), 500px 180px rgb(131, 213, 106), 500px 210px rgb(74, 148, 90), 500px 240px rgb(74, 148, 90), 500px 270px rgb(131, 213, 106), 500px 300px rgb(74, 148, 90), 500px 330px rgb(131, 213, 106), 500px 360px rgb(115, 180, 115), 500px 390px black, 500px 450px black, 500px 480px rgb(131, 213, 106), 500px 510px rgb(115, 180, 115), 500px 540px rgb(82, 82, 82), 500px 630px rgb(82, 82, 82), 500px 690px black,
+                530px 90px black, 530px 120px rgb(115, 180, 115), 530px 150px rgb(131, 213, 106), 530px 180px rgb(131, 213, 106), 530px 210px rgb(131, 213, 106), 530px 240px rgb(131, 213, 106), 530px 270px rgb(131, 213, 106), 530px 300px rgb(131, 213, 106), 530px 330px rgb(115, 180, 115), 530px 360px black, 530px 450px black, 530px 480px rgb(131, 213, 106), 530px 510px rgb(131, 213, 106), 530px 540px rgb(82, 82, 82), 530px 660px rgb(82, 82, 82), 530px 690px black,
+                560px 120px black, 560px 150px black, 560px 180px rgb(131, 213, 106), 560px 210px rgb(131, 213, 106), 560px 240px rgb(131, 213, 106), 560px 270px rgb(131, 213, 106), 560px 300px black, 560px 330px black, 560px 480px black, 560px 510px rgb(131, 213, 106), 560px 540px rgb(131, 213, 106), 560px 570px rgb(82, 82, 82), 560px 720px black,
+                590px 180px black, 590px 210px black, 590px 240px black, 590px 270px black, 590px 480px black, 590px 510px rgb(131, 213, 106), 590px 540px rgb(131, 213, 106), 590px 570px rgb(82, 82, 82), 590px 690px rgb(189, 189, 205), 590px 720px black,
+                620px 480px black, 620px 510px rgb(131, 213, 106), 620px 540px rgb(82, 82, 82), 620px 660px rgb(74, 148, 90), 620px 690px black,
+                650px 510px black, 650px 480px black, 650px 630px rgb(74, 148, 90), 650px 660px black,
+                680px 510px black, 680px 660px black, 680px 630px rgb(74, 148, 90),
+                710px 510px black, 710px 660px black, 710px 600px rgb(205, 213, 238),
+                740px 510px black, 740px 630px black, 740px 600px rgb(205, 213, 238),
+                770px 510px black, 770px 600px black,
+                800px 540px black, 800px 600px black,
+                830px 540px black, 830px 600px black,
+                860px 570px black;
+                
+}
+690
